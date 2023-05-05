@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://thumbs.dreamstime.com/b/four-small-books-big-one-23350365.jpg"
+  },
+  {
+    "id": 2,
+    "name": "computer",
+    "price": 1199,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnvdr-tbzHX5YL-bY7_MIRTUWMsym7Gd1_fEj1cCfcA&s"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaS5NTEog15nbBcwbnnrStS3sGXHfNzAb45JmEF98L1w&s"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 10.99,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVX0HQrKDTFKKtCkRbS7LPr2MIRl9idu1rDmQZL3-iA&s"
+  }
+]
